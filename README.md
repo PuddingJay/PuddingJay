@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭I'm currently open to work<br>
+- 🔭I'm currently open to work for web or mobile development position<br>
 - ⚙️I use daily: `.jsx`, `.scss`, `.java`<br>
 - 🤝Looking to collaborate on a real-world project<br>
 - 🌱Currently learning React Native and API Development<br>
