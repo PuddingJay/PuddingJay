@@ -1,11 +1,4 @@
 # 💫 About Me:
-- 🔭I'm currently open to work for web or mobile development position<br>
-- ⚙️I use daily: `.jsx`, `.scss`, `.java`<br>
-- 🤝Looking to collaborate on a real-world project<br>
-- 🌱Currently learning React Native and API Development<br>
-
-
-# 💫 About Me:
 🔭I'm currently open to work for web or mobile development position<br>⚙️I use daily: `.tsx` `.ts`<br>🤝Looking to collaborate on a real-world project<br>🌱Currently learning React Native and API Development<br>📄Check out my [resume](https://docs.google.com/document/d/1mTrWU9dG3xclVTxSywpgHM1SGsgCzuDy/edit?usp=sharing&ouid=113079269477058386476&rtpof=true&sd=true)
 
 
